@@ -1,0 +1,24 @@
+[
+  {
+    "model": "your_app_name.book",
+    "pk": 1,
+    "fields": {
+      "title": "Example Book 1",
+      "author": "John Doe",
+      "isbn": "1234567890123",
+      "pages": 350,
+      "language": "English"
+    }
+  },
+  {
+    "model": "your_app_name.book",
+    "pk": 2,
+    "fields": {
+      "title": "Example Book 2",
+      "author": "Jane Doe",
+      "isbn": "9876543210987",
+      "pages": 280,
+      "language": "English"
+    }
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "model": "book.book",
+    "pk": 1,
+    "fields": {
+      "title": "Example Book 2",
+      "author": "Kumar Ajit",
+      "isbn": "9876543210987",
+      "pages": 280,
+      "language": "Hindi"
+    }
+  },
+  {
+    "model": "book.book",
+    "pk": 2,
+    "fields": {
+      "title": "This is from script",
+      "author": "ajit",
+      "isbn": "2024-0809",
+      "pages": 300,
+      "language": "English"
+    }
+  },
+  {
+    "model": "book.book",
+    "pk": 31,
+    "fields": {
+      "title": "Example Book 2",
+      "author": "Kumar Ajit",
+      "isbn": "9876544553210987",
+      "pages": 280,
+      "language": "Hindi"
+    }
+  },
+  {
+    "model": "book.book",
+    "pk": 40,
+    "fields": {
+      "title": "Example Book 1",
+      "author": "John Doe",
+      "isbn": "123456734890123",
+      "pages": 350,
+      "language": "English"
+    }
+  },
+  {
+    "model": "book.book",
+    "pk": 41,
+    "fields": {
+      "title": "Example Book 2",
+      "author": "Kumar Ajit",
+      "isbn": "9876543455210987",
+      "pages": 280,
+      "language": "Hindi"
+    }
+  }
+]

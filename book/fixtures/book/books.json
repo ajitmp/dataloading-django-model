@@ -1,0 +1,24 @@
+[
+  {
+    "model": "book.book",
+    "pk": 40,
+    "fields": {
+      "title": "Example Book 1",
+      "author": "John Doe",
+      "isbn": "123456734890123",
+      "pages": 350,
+      "language": "English"
+    }
+  },
+  {
+    "model": "book.book",
+    "pk": 41,
+    "fields": {
+      "title": "Example Book 2",
+      "author": "Kumar Ajit",
+      "isbn": "9876543455210987",
+      "pages": 280,
+      "language": "Hindi"
+    }
+  }
+]

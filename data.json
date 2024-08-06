@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Example Book 1",
+    "author": "John Doe",
+    "isbn": "1234567890123",
+    "pages": 350,
+    "language": "English"
+  },
+  {
+    "title": "Example Book 2",
+    "author": "Kumar Ajit",
+    "isbn": "9876543210987",
+    "pages": 280,
+    "language": "Hindi"
+  }
+]
